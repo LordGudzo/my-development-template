@@ -1,0 +1,13 @@
+node_modules
+src
+package.json
+package-lock.json
+gulp
+gulpfile.js
+.eslintrc.jcon
+prettier.config.js
+.eslintrc.json
+.husky/pre-commit
+dist/js/app.min.js.LICENSE.txt
+.prettierrc
+
